@@ -1,0 +1,54 @@
+# All tags that appear in the NIST source XML.
+tags:
+- controls
+- control
+- family
+- number
+- title
+- priority
+- baseline-impact
+- statement
+- description
+- supplemental-guidance
+- related
+- references
+- reference
+- item
+- control-enhancements
+- control-enhancement
+- withdrawn
+- incorporated-into
+
+# All values for `family` that appear in the source XML.
+family:
+- ACCESS CONTROL
+- AWARENESS AND TRAINING
+- AUDIT AND ACCOUNTABILITY
+- SECURITY ASSESSMENT AND AUTHORIZATION
+- CONFIGURATION MANAGEMENT
+- CONTINGENCY PLANNING
+- IDENTIFICATION AND AUTHENTICATION
+- INCIDENT RESPONSE
+- MAINTENANCE
+- MEDIA PROTECTION
+- PHYSICAL AND ENVIRONMENTAL PROTECTION
+- PLANNING
+- PERSONNEL SECURITY
+- RISK ASSESSMENT
+- SYSTEM AND SERVICES ACQUISITION
+- SYSTEM AND COMMUNICATIONS PROTECTION
+- SYSTEM AND INFORMATION INTEGRITY
+- Program Management
+
+# All values for `priority` that appear in the source XML.
+priority:
+- P0
+- P1
+- P2
+- P3
+
+# All values for `baseline-impact` that appear in the source XML.
+baseline-impact:
+- LOW
+- MODERATE
+- HIGH
